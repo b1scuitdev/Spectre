@@ -11,8 +11,8 @@ It brings together embedded software, PCB design, and RF hardware in one portabl
 ## ✨ Features
 - ESP32-S3 WROOM-1U Main MCU (16MB Flash, 8MB PSRAM)
 - STM32C011 Auxiliary MCU for extra GPIO control
-- Amplified nRF24 (Ebyte E01-2G4M27SX)  
-- Amplified CC1101 (Ebyte E07-433M20S)  
+- Amplified nRF24 (EBYTE E01-2G4M27SX)  
+- Amplified CC1101 (EBYTE E07-433M20S)  
 - 1.9" 320x170 IPS TFT (ST7789V)  
 - 7x IR LEDs (VSMY14940) + TSOP75338 IR receiver
 - LSM6DSOX 6-Axis IMU
